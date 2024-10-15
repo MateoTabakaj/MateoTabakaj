@@ -15,23 +15,11 @@
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/63/80/08/63800893447bf6525e19e28899833b69.jpg" style="padding-right: 100px;"  />
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateotabakaj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:tabakajmateo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/mateotabakaj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 
 <div align="center">
+  <p>My technologies 👉</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -43,6 +31,20 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
 
+###
+
+<div align="center">
+  <p>How to reach me? | Here 👇</p> </br>
+  <a href="https://www.linkedin.com/in/mateotabakaj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:tabakajmateo@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mateotabakaj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="40" alt="instagram logo"  />
+  </a>
+</div>
 ###
 
 <br clear="both">
