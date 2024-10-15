@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/63/80/08/63800893447bf6525e19e28899833b69.jpg" style="margin-right: 100px;"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/63/80/08/63800893447bf6525e19e28899833b69.jpg" style="padding-right: 100px;"  />
 
 ###
 
