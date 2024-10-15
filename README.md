@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/mateotabakaj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo"  />
   </a>
-  <a href="tabakajmateo@gmail.com" target="_blank">
+  <a mailto="tabakajmateo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/mateotabakaj" target="_blank">
