@@ -20,7 +20,7 @@
 
 <div align="center">
     <p style="font-size: 20px; margin-bottom: -2px;   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"> My technologies</p>
-     <div style="border: 1px solid #ccc; padding: 10px; display: inline-flex; justify-content: center; align-items: center; gap: 10px; border-radius: 15px;">
+     <div style="border: 1px solid #fff; padding: 10px; display: inline-flex; justify-content: center; align-items: center; gap: 10px; border-radius: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="vertical-align: middle;" />
     <img width="12"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="vertical-align: middle;" />
@@ -38,7 +38,7 @@
 
 <div align="center">
   <p style="font-size: 20px; margin-bottom: -2px;  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; "> How to reach me? | Here  </p>
-  <div style="border: 1px solid #ccc; padding: 10px; display: inline-flex; justify-content: center; align-items: center; gap: 10px; border-radius: 15px;">
+  <div style="border: 1px solid #fff; padding: 10px; display: inline-flex; justify-content: center; align-items: center; gap: 10px; border-radius: 15px;">
   <a href="https://www.linkedin.com/in/mateotabakaj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="linkedin logo"  />
   </a>
