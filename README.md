@@ -63,7 +63,7 @@
 
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats-silk-rho.vercel.app?user=MateoTabakaj)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-silk-rho.vercel.app?user=MateoTabakaj" alt="GitHub Streak" /></a>
 </div>
 ---
 
