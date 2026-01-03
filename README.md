@@ -16,46 +16,33 @@
 <img width="800" src="https://svg.bookmark.style/api?url=https://github.com/MateoTabakaj&mode=dark&style=horizontal" alt="github" />
 </div>
 <br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
-</div>
-<br>
-```````yaml
-name: Mateo Tabakaj
-located_in: Ballsh, Albania 🇦🇱
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer",
-    "Computer Science Enthusiast"
-  ]
-company: Building My Dreams
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Backend Engineering", 
-    "Database Design",
-    "UI/UX",
-    "DevOps"
-  ]
-  
-technical_background:
-  [
-    "Full Stack Developer (MERN)",
-    "RESTful API Developer",
-    "Database Architect"
-  ]
-  
-currently_learning: ["Advanced React Patterns", "Microservices", "Cloud Architecture"]
-2025_goals: ["Master System Design", "Contribute to 10+ Open Source Projects", "Build SaaS Products"]
-hobbies: ["Gaming 🎮", "Coding 💻", "Tech Blogging ✍️", "Coffee ☕"]
+**`Full Stack Developer from Albania 🇦🇱`**
+
+I'm a passionate developer who loves building things for the web. I specialize in the MERN stack and enjoy turning complex problems into simple, beautiful solutions.
+
+### 🚀 Quick Facts
+`````javascript
+const mateo = {
+  code: ['JavaScript', 'HTML', 'CSS'],
+  technologies: {
+    frontEnd: ['React', 'Tailwind'],
+    backEnd: ['Node.js', 'Express'],
+    databases: ['MongoDB', 'MySQL'],
+  },
+  currentlyLearning: 'System Design',
+  funFact: 'I debug with console.log 😄'
+};
 \```
 
+**Languages:** JavaScript, SQL  
+**Daily Drivers:** VS Code, Git, Postman  
+**Hobbies:** Gaming, Coding, Coffee  
 
-```````
 
----
+
+
+`````
 
 ### 🛠️ Tech Stack
 
