@@ -62,8 +62,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MateoTabakaj&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+[  <img src="https://streak-stats.demolab.com/?user=MateoTabakaj&theme=radical&hide_border=true" alt="GitHub Streak" />
+](https://streak-stats.demolab.com/?user=MateoTabakaj&theme=radical)</div>
 
 ---
 
