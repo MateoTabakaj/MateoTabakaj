@@ -11,68 +11,76 @@
 
 ---
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-<!-- Terminal Window -->
-<div style="background: linear-gradient(to bottom, #2d2d2d 0%, #1e1e1e 100%); border-radius: 10px; padding: 0; box-shadow: 0 8px 16px rgba(0,0,0,0.4); border: 1px solid #404040; font-family: 'Courier New', 'Consolas', monospace; width: 700px;">
-
-<!-- Terminal Header -->
-<div style="background: linear-gradient(to bottom, #3d3d3d 0%, #2d2d2d 100%); border-radius: 10px 10px 0 0; padding: 10px 15px; display: flex; align-items: center; gap: 6px; border-bottom: 1px solid #1a1a1a;">
-  <span style="background: #ff5f56; width: 13px; height: 13px; border-radius: 50%; display: inline-block; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></span>
-  <span style="background: #ffbd2e; width: 13px; height: 13px; border-radius: 50%; display: inline-block; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></span>
-  <span style="background: #27c93f; width: 13px; height: 13px; border-radius: 50%; display: inline-block; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></span>
-  <span style="margin-left: 15px; color: #8b949e; font-size: 13px; font-weight: 500;">mateo@developer: ~</span>
+<img width="800" src="https://svg.bookmark.style/api?url=https://github.com/MateoTabakaj&mode=dark&style=horizontal" alt="github" />
 </div>
-
-<!-- Terminal Body -->
-<div style="padding: 20px; color: #e6edf3; font-size: 14px; line-height: 1.6;">
-
-<pre style="margin: 0; font-family: 'Courier New', 'Consolas', monospace;">
-<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
-<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> cat about_me.txt
-
- <span style="color: #d2a8ff;">╔═══════════════════════════════════════╗</span>
- <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Name     </span> : <span style="color: #e6edf3;">Mateo Tabakaj          </span> <span style="color: #d2a8ff;">║</span>
- <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Location </span> : <span style="color: #e6edf3;">Albania 🇦🇱             </span> <span style="color: #d2a8ff;">║</span>
- <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Role     </span> : <span style="color: #7ee787;">Full Stack Developer    </span> <span style="color: #d2a8ff;">║</span>
- <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Stack    </span> : <span style="color: #ffa657;">MERN                    </span> <span style="color: #d2a8ff;">║</span>
- <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Status   </span> : <span style="color: #7ee787;">Building & Learning 🚀  </span> <span style="color: #d2a8ff;">║</span>
- <span style="color: #d2a8ff;">╚═══════════════════════════════════════╝</span>
-
-<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
-<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> ls skills/
-  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">JavaScript</span>  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">React</span>      <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">Node.js</span>
-  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">Express</span>     <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">MongoDB</span>    <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">MySQL</span>
-  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">Git</span>         <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">REST APIs</span>  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">HTML/CSS</span>
-
-<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
-<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> cat current_status.log
-  <span style="color: #7ee787;">[✓]</span> <span style="color: #e6edf3;">Building scalable web applications</span>
-  <span style="color: #7ee787;">[✓]</span> <span style="color: #e6edf3;">Learning advanced patterns</span>
-  <span style="color: #7ee787;">[✓]</span> <span style="color: #e6edf3;">Contributing to open source</span>
-  <span style="color: #ffa657;">[⟳]</span> <span style="color: #e6edf3;">Always coding...</span>
-
-<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
-<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> echo $MOTTO
-  <span style="color: #a5d6ff;">"Code with passion, debug with patience ☕"</span>
-
-<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
-<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> <span style="color: #8b949e;">▋</span>
-</pre>
-
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
 </div>
-
-</div>
-
-</td>
-</tr>
-</table>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-terminal.svg">
+  <img alt="Terminal" src="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-terminal.svg" width="100%">
+</picture>
+<details open>
+<summary><b>🖥️ Terminal</b></summary>
+<br>
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/terminal.gif?raw=true" />
+</p>
+```yaml
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ mateo@developer: ~                                                      ─ □ ✕ ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│                                                                                │
+│  $ neofetch                                                                    │
+│                                                                                │
+│         .-/+oossssoo+/-.               mateo@developer                        │
+│      `:+ssssssssssssssssss+:`          ─────────────────                      │
+│    -+ssssssssssssssssssyyssss+-        OS: Linux (GitHub Edition)             │
+│  .ossssssssssssssssssdMMMNysssso.      Host: Albania 🇦🇱                       │
+│ /ssssssssssshdmmNNmmyNMMMMhssssss/     Kernel: Full Stack                     │
+│+ssssssssshmydMMMMMMMNddddyssssssss+    Shell: MERN Stack                      │
+│                                         Languages: JavaScript, HTML, CSS       │
+│  Name:        Mateo Tabakaj             Frameworks: React, Node.js, Express   │
+│  Role:        Full Stack Developer      Database: MongoDB, MySQL              │
+│  Location:    Albania 🇦🇱                Tools: Git, VS Code, Postman          │
+│  Status:      Building & Learning 🚀    Editor: VS Code with Vim keybindings  │
+│                                                                                │
+│  $ ls -la ~/skills                                                             │
+│  total 32                                                                      │
+│  drwxr-xr-x  8 mateo  staff   256 Jan  3 2025 .                              │
+│  drwxr-xr-x  5 mateo  staff   160 Jan  3 2025 ..                             │
+│  drwxr-xr-x  5 mateo  staff   160 Jan  3 2025 frontend/                      │
+│  │ ├── JavaScript ⭐⭐⭐⭐⭐                                                       │
+│  │ ├── React ⭐⭐⭐⭐⭐                                                            │
+│  │ ├── HTML5 ⭐⭐⭐⭐⭐                                                            │
+│  │ └── CSS3 ⭐⭐⭐⭐                                                              │
+│  drwxr-xr-x  4 mateo  staff   128 Jan  3 2025 backend/                       │
+│  │ ├── Node.js ⭐⭐⭐⭐⭐                                                          │
+│  │ ├── Express ⭐⭐⭐⭐                                                           │
+│  │ └── REST APIs ⭐⭐⭐⭐                                                         │
+│  drwxr-xr-x  3 mateo  staff    96 Jan  3 2025 database/                      │
+│  │ ├── MongoDB ⭐⭐⭐⭐                                                           │
+│  │ └── MySQL ⭐⭐⭐⭐                                                             │
+│                                                                                │
+│  $ cat ~/goals/2025.txt                                                        │
+│  [████████████████████░░░░] 80% - Master System Design                        │
+│  [███████████████░░░░░░░░░] 65% - Build 5+ Full Stack Projects                │
+│  [██████████████████░░░░░░] 75% - Contribute to Open Source                   │
+│  [████████████████████████] 100% - Keep Learning Every Day                    │
+│                                                                                │
+│  $ echo $MOTTO                                                                 │
+│  "Code with passion, debug with patience ☕"                                   │
+│                                                                                │
+│  $ █                                                                           │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+</details>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 ---
 
