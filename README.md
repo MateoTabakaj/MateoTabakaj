@@ -12,11 +12,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-<div align="center">
-<img src="https://i.pinimg.com/originals/63/80/08/63800893447bf6525e19e28899833b69.jpg" alt="coding" width="400" style="border-radius: 10px; margin-bottom: 20px;" />
-</div>
-
 <div align="center">
 
 <table>
