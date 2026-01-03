@@ -24,59 +24,42 @@
   <img alt="Terminal" src="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-terminal.svg" width="100%">
 </picture>
 <details open>
-<summary><b>🖥️ Terminal</b></summary>
 <br>
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/terminal.gif?raw=true" />
-</p>
-```yaml
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ mateo@developer: ~                                                      ─ □ ✕ ┃
-┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
-│                                                                                │
-│  $ neofetch                                                                    │
-│                                                                                │
-│         .-/+oossssoo+/-.               mateo@developer                        │
-│      `:+ssssssssssssssssss+:`          ─────────────────                      │
-│    -+ssssssssssssssssssyyssss+-        OS: Linux (GitHub Edition)             │
-│  .ossssssssssssssssssdMMMNysssso.      Host: Albania 🇦🇱                       │
-│ /ssssssssssshdmmNNmmyNMMMMhssssss/     Kernel: Full Stack                     │
-│+ssssssssshmydMMMMMMMNddddyssssssss+    Shell: MERN Stack                      │
-│                                         Languages: JavaScript, HTML, CSS       │
-│  Name:        Mateo Tabakaj             Frameworks: React, Node.js, Express   │
-│  Role:        Full Stack Developer      Database: MongoDB, MySQL              │
-│  Location:    Albania 🇦🇱                Tools: Git, VS Code, Postman          │
-│  Status:      Building & Learning 🚀    Editor: VS Code with Vim keybindings  │
-│                                                                                │
-│  $ ls -la ~/skills                                                             │
-│  total 32                                                                      │
-│  drwxr-xr-x  8 mateo  staff   256 Jan  3 2025 .                              │
-│  drwxr-xr-x  5 mateo  staff   160 Jan  3 2025 ..                             │
-│  drwxr-xr-x  5 mateo  staff   160 Jan  3 2025 frontend/                      │
-│  │ ├── JavaScript ⭐⭐⭐⭐⭐                                                       │
-│  │ ├── React ⭐⭐⭐⭐⭐                                                            │
-│  │ ├── HTML5 ⭐⭐⭐⭐⭐                                                            │
-│  │ └── CSS3 ⭐⭐⭐⭐                                                              │
-│  drwxr-xr-x  4 mateo  staff   128 Jan  3 2025 backend/                       │
-│  │ ├── Node.js ⭐⭐⭐⭐⭐                                                          │
-│  │ ├── Express ⭐⭐⭐⭐                                                           │
-│  │ └── REST APIs ⭐⭐⭐⭐                                                         │
-│  drwxr-xr-x  3 mateo  staff    96 Jan  3 2025 database/                      │
-│  │ ├── MongoDB ⭐⭐⭐⭐                                                           │
-│  │ └── MySQL ⭐⭐⭐⭐                                                             │
-│                                                                                │
-│  $ cat ~/goals/2025.txt                                                        │
-│  [████████████████████░░░░] 80% - Master System Design                        │
-│  [███████████████░░░░░░░░░] 65% - Build 5+ Full Stack Projects                │
-│  [██████████████████░░░░░░] 75% - Contribute to Open Source                   │
-│  [████████████████████████] 100% - Keep Learning Every Day                    │
-│                                                                                │
-│  $ echo $MOTTO                                                                 │
-│  "Code with passion, debug with patience ☕"                                   │
-│                                                                                │
-│  $ █                                                                           │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────────────────┘
+```````yaml
+name: Mateo Tabakaj
+located_in: Ballsh, Albania 🇦🇱
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer",
+    "Computer Science Enthusiast"
+  ]
+company: Building My Dreams
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Backend Engineering", 
+    "Database Design",
+    "UI/UX",
+    "DevOps"
+  ]
+  
+technical_background:
+  [
+    "Full Stack Developer (MERN)",
+    "RESTful API Developer",
+    "Database Architect"
+  ]
+  
+currently_learning: ["Advanced React Patterns", "Microservices", "Cloud Architecture"]
+2025_goals: ["Master System Design", "Contribute to 10+ Open Source Projects", "Build SaaS Products"]
+hobbies: ["Gaming 🎮", "Coding 💻", "Tech Blogging ✍️", "Coffee ☕"]
+\```
+
+
+```````
+
 ```
 </details>
 <div align="center">
