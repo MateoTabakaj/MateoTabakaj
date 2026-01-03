@@ -46,13 +46,23 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateoTabakaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MateoTabakaj&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateoTabakaj&theme=radical)
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoTabakaj&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MateoTabakaj&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MateoTabakaj&theme=radical" alt="Repos Per Language" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MateoTabakaj&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateoTabakaj&theme=radical" alt="Stats" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateoTabakaj&theme=radical&utcOffset=1" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MateoTabakaj&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
