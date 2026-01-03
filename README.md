@@ -61,9 +61,12 @@
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateoTabakaj&theme=radical&utcOffset=1" alt="Productive Time" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MateoTabakaj)](https://git.io/streak-stats)
 
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats-silk-rho.vercel.app?user=MateoTabakaj)](https://git.io/streak-stats)
+</div>
 ---
+
 
 ### 🏆 GitHub Trophies
 
