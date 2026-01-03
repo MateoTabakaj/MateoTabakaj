@@ -19,11 +19,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-terminal.svg">
-  <img alt="Terminal" src="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-terminal.svg" width="100%">
-</picture>
-<details open>
 <br>
 ```````yaml
 name: Mateo Tabakaj
@@ -60,11 +55,6 @@ hobbies: ["Gaming 🎮", "Coding 💻", "Tech Blogging ✍️", "Coffee ☕"]
 
 ```````
 
-```
-</details>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
 ---
 
 ### 🛠️ Tech Stack
