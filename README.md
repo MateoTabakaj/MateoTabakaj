@@ -13,26 +13,16 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const mateo = {
-    location: "Albania 🇦🇱",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "HTML", "CSS", "SQL"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<img align="right" height="200" src="https://i.pinimg.com/originals/63/80/08/63800893447bf6525e19e28899833b69.jpg" alt="coding gif" />
+
+- 🌍 Based in **Albania**
+- 💼 Full Stack Developer passionate about creating web applications
+- 🔥 Specialized in **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🎯 Currently focused on building scalable and efficient solutions
+- 📚 Always learning and exploring new technologies
+- 🎮 When I'm not coding, you can find me gaming or exploring tech trends
+- 💡 Open to collaborating on interesting projects
+- ⚡ Fun fact: I believe the best code is written with passion and coffee ☕
 
 ---
 
@@ -104,15 +94,13 @@ const mateo = {
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Watch My Contribution Graph Get Eaten!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MateoTabakaj/MateoTabakaj/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/MateoTabakaj/MateoTabakaj/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
+> **Note:** If the snake isn't showing, the workflow might need to run first. Check the troubleshooting steps below!
 
 ---
 
