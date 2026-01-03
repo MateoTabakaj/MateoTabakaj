@@ -61,11 +61,7 @@
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateoTabakaj&theme=radical&utcOffset=1" alt="Productive Time" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MateoTabakaj&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MateoTabakaj)](https://git.io/streak-stats)
 
 ---
 
