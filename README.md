@@ -13,17 +13,72 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/63/80/08/63800893447bf6525e19e28899833b69.jpg" alt="coding gif" />
+<div align="center">
+<img src="https://i.pinimg.com/originals/63/80/08/63800893447bf6525e19e28899833b69.jpg" alt="coding" width="400" style="border-radius: 10px; margin-bottom: 20px;" />
+</div>
 
-- 🌍 Based in **Albania**
-- 💼 Full Stack Developer passionate about creating web applications
-- 🔥 Specialized in **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🎯 Currently focused on building scalable and efficient solutions
-- 📚 Always learning and exploring new technologies
-- 🎮 When I'm not coding, you can find me gaming or exploring tech trends
-- 💡 Open to collaborating on interesting projects
-- ⚡ Fun fact: I believe the best code is written with passion and coffee ☕
+<div align="center">
 
+<table>
+<tr>
+<td>
+
+<!-- Terminal Window -->
+<div style="background: linear-gradient(to bottom, #2d2d2d 0%, #1e1e1e 100%); border-radius: 10px; padding: 0; box-shadow: 0 8px 16px rgba(0,0,0,0.4); border: 1px solid #404040; font-family: 'Courier New', 'Consolas', monospace; width: 700px;">
+
+<!-- Terminal Header -->
+<div style="background: linear-gradient(to bottom, #3d3d3d 0%, #2d2d2d 100%); border-radius: 10px 10px 0 0; padding: 10px 15px; display: flex; align-items: center; gap: 6px; border-bottom: 1px solid #1a1a1a;">
+  <span style="background: #ff5f56; width: 13px; height: 13px; border-radius: 50%; display: inline-block; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></span>
+  <span style="background: #ffbd2e; width: 13px; height: 13px; border-radius: 50%; display: inline-block; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></span>
+  <span style="background: #27c93f; width: 13px; height: 13px; border-radius: 50%; display: inline-block; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></span>
+  <span style="margin-left: 15px; color: #8b949e; font-size: 13px; font-weight: 500;">mateo@developer: ~</span>
+</div>
+
+<!-- Terminal Body -->
+<div style="padding: 20px; color: #e6edf3; font-size: 14px; line-height: 1.6;">
+
+<pre style="margin: 0; font-family: 'Courier New', 'Consolas', monospace;">
+<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
+<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> cat about_me.txt
+
+ <span style="color: #d2a8ff;">╔═══════════════════════════════════════╗</span>
+ <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Name     </span> : <span style="color: #e6edf3;">Mateo Tabakaj          </span> <span style="color: #d2a8ff;">║</span>
+ <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Location </span> : <span style="color: #e6edf3;">Albania 🇦🇱             </span> <span style="color: #d2a8ff;">║</span>
+ <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Role     </span> : <span style="color: #7ee787;">Full Stack Developer    </span> <span style="color: #d2a8ff;">║</span>
+ <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Stack    </span> : <span style="color: #ffa657;">MERN                    </span> <span style="color: #d2a8ff;">║</span>
+ <span style="color: #d2a8ff;">║</span>  <span style="color: #79c0ff;">Status   </span> : <span style="color: #7ee787;">Building & Learning 🚀  </span> <span style="color: #d2a8ff;">║</span>
+ <span style="color: #d2a8ff;">╚═══════════════════════════════════════╝</span>
+
+<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
+<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> ls skills/
+  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">JavaScript</span>  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">React</span>      <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">Node.js</span>
+  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">Express</span>     <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">MongoDB</span>    <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">MySQL</span>
+  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">Git</span>         <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">REST APIs</span>  <span style="color: #79c0ff;">→</span> <span style="color: #ffa657;">HTML/CSS</span>
+
+<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
+<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> cat current_status.log
+  <span style="color: #7ee787;">[✓]</span> <span style="color: #e6edf3;">Building scalable web applications</span>
+  <span style="color: #7ee787;">[✓]</span> <span style="color: #e6edf3;">Learning advanced patterns</span>
+  <span style="color: #7ee787;">[✓]</span> <span style="color: #e6edf3;">Contributing to open source</span>
+  <span style="color: #ffa657;">[⟳]</span> <span style="color: #e6edf3;">Always coding...</span>
+
+<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
+<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> echo $MOTTO
+  <span style="color: #a5d6ff;">"Code with passion, debug with patience ☕"</span>
+
+<span style="color: #7ee787;">┌──(</span><span style="color: #79c0ff;">mateo</span><span style="color: #7ee787;">㉿</span><span style="color: #ffa657;">developer</span><span style="color: #7ee787;">)-[</span><span style="color: #a5d6ff;">~</span><span style="color: #7ee787;">]</span>
+<span style="color: #7ee787;">└─</span><span style="color: #ff7b72;">$</span> <span style="color: #8b949e;">▋</span>
+</pre>
+
+</div>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ### 🛠️ Tech Stack
